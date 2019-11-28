@@ -1,0 +1,1 @@
+lock比synchronized更加面向对象，用于替代synchronized
